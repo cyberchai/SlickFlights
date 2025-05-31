@@ -2,7 +2,6 @@
 
 Authors: Chaira Kai Harder and Sirohi Kumar
 
-
 ## goal
 
 - in this game, the user is tasked with navigating from one airport to another airport via the cheapest route possible
@@ -124,8 +123,7 @@ YES__ the length of the route can be calculated
 - additionally, our data structure ended up being highly abstract which posed its own difficulties, but i felt like it came to make a lot of sense after working on it for so long
 - i'd be interested in hearing how someone not involved in development/coding finds interpreting the various methods and classes 
 
-### kai
+### chaira
 
-I enjoyed working with Sirohi on this final project for CSC 212.
-Like Sirohi, I was very engaged with the concept/idea of the game, in part because I hope I can use parts of it for a real life appliaction such as finding the cheapest optimal route from one location to another. I'm an international student and I live on the west coast (Vancouver/Kelowna BC Canada) so looking for the cheapest routes on sites like kayak.com is something I do frequently, and was how I came up with the idea for the game. 
-I felt that the project challenged us and gave us adequate experience using and traversing differnet data structures such as graphs and hashmaps that we hadn't really practiced using in a class weekly assignment.
+Like Sirohi, I was very engaged in the concept/idea of the game, in part because I hope to expand and use parts of it for a real life application like for finding the cheapest optimal route from one location to another. I'm an international student from the west coast (Vancouver/Kelowna BC Canada), so looking for the cheapest routes on sites like kayak.com is something I do frequently and is actually how I came up with the idea for the game. 
+I feel that this project challenged us and gave us adequate experience using and traversing differnet data structures such as graphs and hashmaps. Almost the entirety of this project was pair programmed as well, which proved to be an effective and productive learning experience for both Sirohi and I.
