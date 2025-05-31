@@ -1,0 +1,11 @@
+BDL,Bradley International Airport,Hartford CT,United States,M
+BFL,Meadows Field,Bakersfield CA,United States,S
+BGR,Bangor International Airport,Bangor ME,United States,S
+DAB,Daytona Beach International Airport,Daytona FL,United States,S
+JFK,John F Kennedy International Airport,New York NY,United States,L
+LAX,Los Angeles International Airport,Los Angeles CA,United States,L
+YLW,Kelowna Airport,Kelowna BC,Canada,S
+YUL,Montréal-Pierre Elliott Trudeau International Airport,Montréal QC,Canada,L
+YVR,Vancouver International Airport,Vancouver BC,Canada,L
+YYC,Calgary International Airport,Calgary AB,Canada,L
+YYZ,Toronto Pearson International Airport,Toronto ON,Canada,L
