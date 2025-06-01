@@ -14,7 +14,7 @@ Authors: Chaira Kai Harder and Sirohi Kumar
 - our main data structure was a weighted graph
   - this was implemented using a nested map, where the outside keys were airport objects and each key-value was its own map, which represented the various airports that key had a route to
   - the values for these internal maps were the costs for each route. thus, each node was an airport, the edges were the routes, and the weight of each edge is the cost of each route
-  - for this graph structure, we had to create several methods, including methods to randomly select airports in this non-iterable structure, add routes between two given airports, and XX
+  - for this graph structure, we had to create several methods, including methods to randomly select airports in this non-iterable structure, add routes between two given airports, and more
 - we then created a variety of other classes using different data structures
   - we coded djikstra's shortest path algorithm using a series of 2D arrays and sets. this was especially difficult because the traditional implementation of this algorithm for a weighted graph would work for a weighted graph that uses airport objects.
     - to allow future expansion to an infinite number of airports, we created several flexible methods that could take a map of any size, convert it to a 2D array and then find the shortest route between two nodes.
