@@ -126,4 +126,4 @@ YES__ the length of the route can be calculated
 ### chaira
 
 Like Sirohi, I was very engaged in the concept/idea of the game, in part because I hope to expand and use parts of it for a real life application like for finding the cheapest optimal route from one location to another. I'm an international student from the west coast (Vancouver/Kelowna BC Canada), so looking for the cheapest routes on sites like kayak.com is something I do frequently and is actually how I came up with the idea for the game. 
-I feel that this project challenged us and gave us adequate experience using and traversing differnet data structures such as graphs and hashmaps. Almost the entirety of this project was pair programmed as well, which proved to be an effective and productive learning experience for both Sirohi and I.
+I feel that this project challenged us and gave us adequate experience using and traversing different data structures such as graphs and hashmaps. Almost the entirety of this project was pair programmed as well, which proved to be an effective and productive learning experience for both Sirohi and me.
